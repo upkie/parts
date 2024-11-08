@@ -7,7 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Changed
+
+- Redesign the wheel hub (thanks to @Tordjx and @EtienneAr)
 ## [1.1.0] - 2024-09-02
+
+
 
 ### Added
 

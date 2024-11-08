@@ -3,6 +3,9 @@ Wheel Hub
 
 ## Revisions
 
+### 2024/11/07
+- Made the wheel and wheel hub a single piece. Added an outer lip to keep the tire in place.
+
 ### 2023/04/11
 - Add a flange at the base of the shaft, to distribute torsion effort from the flat part of the screw to the 'cone' via the flange. (and don't rely only on the 'fragile' shaft).
 - Add a chamfer to tip the of the shaft, to prevent it from deforming and locking the nut when pushing the hub out of the wheel.
